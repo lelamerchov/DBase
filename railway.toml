@@ -1,6 +1,3 @@
-# Railway service configuration for SideRail
-# The static index.html serving path is resolved automatically at runtime.
-
 [build]
 builder = "dockerfile"
 dockerfilePath = "Dockerfile"
